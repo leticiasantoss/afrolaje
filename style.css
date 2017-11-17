@@ -1,0 +1,32 @@
+body{
+
+	background-color: #1ddc09;
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+
+}
+header {
+	margin: 0 auto;
+	width: 60%;
+}
+header img {
+
+	height: 200px;
+	border-radius: 100px;
+	
+}
+ header .cinegrada{
+ 	width: 100%;
+ 	height: 100%;
+ 	border-radius: 0;
+ }
+header p,h1 {
+
+	color :#fff;
+}
+
+
+
+
+
+
